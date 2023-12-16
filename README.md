@@ -5,4 +5,4 @@
 ## Pré-requisitos:
 - Conhecimentos em instalação de programas.
 - Conhecimentos em Debian based systems.
-### <a href="">Baixe aqui o PDF :)</a>
+### <a href="https://github.com/Adyson-Lima/tk4_tutorial/blob/main/Tutorial_TK4_TSO.pdf">Baixe aqui o PDF :)</a>
